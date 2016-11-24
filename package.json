@@ -1,0 +1,27 @@
+{
+  "name": "responsive-iframe",
+  "version": "0.0.1",
+  "description": "Keeps iframes in correct aspect ratios",
+  "main": "responsive-iframe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenMelbz/responsive-iframe.git"
+  },
+  "keywords": [
+    "iframe",
+    "responsive",
+    "aspect",
+    "ratio",
+    "youtube",
+    "vimeo"
+  ],
+  "author": "Owen Melbourne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OwenMelbz/responsive-iframe/issues"
+  },
+  "homepage": "https://github.com/OwenMelbz/responsive-iframe#readme"
+}
